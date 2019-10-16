@@ -1,0 +1,10 @@
+#reservation{
+    text-align: center;
+    border: 1px groove black;
+    margin: 5%;  
+}
+
+#reservation form {
+    max-width: 20%;
+}
+
