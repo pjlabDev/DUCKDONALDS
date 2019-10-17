@@ -128,6 +128,7 @@ footer {
 .row img {
     width: 35px;
     height: 35px;
+    padding-top: 30px;
 }
 
 .row label {
@@ -151,6 +152,7 @@ footer {
 .row-info img {
     width: 35px;
     height: 35px;
+    padding-top: 30px;
 }
 
 .row-info label {
@@ -165,9 +167,12 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    justify-content: center;
+    
 }
 
 .copyright {
+    
     color: rgb(238, 237, 237);
 }
 
